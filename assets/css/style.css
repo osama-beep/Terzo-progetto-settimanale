@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+
+}
+
+.test {
+  background-color: yellow; 
+  color: red; 
+  font-weight: bold; 
+  border: 2px solid black; 
+}
